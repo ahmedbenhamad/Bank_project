@@ -644,10 +644,5 @@ int main() {
     return 0;
 }
 
-/*
-    +) Function Remplir_date for the transactions dates
-    +) Fix output of transactions
-    +) Fix admin trans func to show all ransactions
- */
 
 
