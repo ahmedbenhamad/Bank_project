@@ -52,9 +52,9 @@ int custNum = 0;
 
 void AdminDef() {
     cust[0].id = 0;
-    strcpy(cust[0].email, "abenhamad@gmail.com");
-    strcpy(cust[0].address, "nouiel4222");
-    cust[0].phone = 94134518;
+    strcpy(cust[0].email, "admin@project.com");
+    strcpy(cust[0].address, "Greed Island");
+    cust[0].phone = 00001111;
     strcpy(cust[0].name, "admin");
     custNum++;
 }
